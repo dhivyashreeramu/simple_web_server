@@ -1,25 +1,26 @@
-EX01 Developing a Simple Webserver
+**EX01 Developing a Simple Webserver**
 
-Date:
+**Date:**
 19-09-2025
 
-AIM:
+**AIM:**
 To develop a simple webserver to serve HTML pages and display the configuration details of a laptop.
 
-DESIGN STEPS:
-Step 1:
+**DESIGN STEPS:**
+
+**step 1:**
 HTML content creation.
 
-Step 2:
+**Step 2:**
 Design of webserver workflow.
 
-Step 3:
+**Step 3:**
 Implementation using Python code.
 
-Step 4:
+**Step 4:**
 Serving the HTML pages.
 
-Step 5:
+**Step 5:**
 Testing the webserver.
 ```
 ###PROGRAM:
