@@ -62,5 +62,5 @@ httpd.serve_forever()
 ![output2](output2.jpg)
 ![output1](output.pgn.png)
 
-🔗### RESULT:
+### RESULT:
 The program for implementing simple webserver is executed successfully.
